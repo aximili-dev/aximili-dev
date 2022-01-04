@@ -1,6 +1,6 @@
 👋 Hi, I’m @aximili-dev
-- 👀 I’m interested in solving interesting problems
-- 🌱 I’m currently learning [Metaplex](https://docs.metaplex.com/)
+- 👀 I like playing guitar and videogames. Also coffee
+- 🌱 I’m currently learning [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html), [Metaplex](https://docs.metaplex.com/), [Solana](https://docs.solana.com/)...
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me [twitter](https://twitter.com/aximili_dev)
 
