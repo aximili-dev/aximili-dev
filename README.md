@@ -11,7 +11,7 @@ Hi, my name is Aximili. I code for my own pleasure and enjoyment, and at times w
 ## 🧑🏻 About me
 
 - 👀 I like playing guitar and videogames. Also coffee
-- 🌱 I’m currently learning [Solana](https://docs.solana.com/)...
+- 🌱 I’m currently learning [Solana](https://docs.solana.com/)
 - 💞️ I’m looking to collaborate on web3 projects
 
 <!---
