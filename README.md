@@ -1,11 +1,13 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/aximili_dev)
+Hi, my name is Aximili.
 
-Hi, my name is Aximili. I code for my own pleasure and enjoyment, and at times when I'm lucky I make my living from it. Most of my experience is in cloud and web development, but I'm shifting towards crypto and web3. Currently working at [Oyga](https://oyga.io)
+- Technologist and Nerd
+- Cryptobro
+- All hail Common Lisp
 
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CommonLisp-informational?style=flat&logo=commonlisp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
 
 ## 🧑🏻 About me
